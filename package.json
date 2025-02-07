@@ -1,0 +1,15 @@
+{
+  "name": "2-start_code",
+  "version": "1.0.0",
+  "main": "ex1 - trasnform array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
